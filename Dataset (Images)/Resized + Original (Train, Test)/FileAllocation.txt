@@ -1,0 +1,1 @@
+The resized files are in JPEG folder whereas the original files are outside. This was done just in case if I ever wanted to run tests on the full res images instead of the resized ones.
