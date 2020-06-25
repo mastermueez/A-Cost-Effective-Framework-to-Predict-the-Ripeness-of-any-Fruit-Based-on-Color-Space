@@ -6,7 +6,7 @@ This repository contains the code and dataset used for the paper given below. Pl
 *A. Mueez, “A Cost-Effective Framework to Predict the Ripeness of any Fruit Based on Color Space”, 2020 IEEE Region 10 Symposium (TENSYMP), Dhaka, Bangladesh. In press.*
 
 
-## A brief outline of the contents:
+## A Brief Outline of the Contents:
 
 * **Raspberry Pi**: This folder contains files that have been written to run on a Raspberry Pi equipped with openCV, scikit-learn and pandas library:
   * **tain.py**: With this program running when a fruit is placed on the rotating platform, the sonar detects it and asks the user to enter an appropirate ripeness index for it. Then five images are captured with the servo rotating 72 degrees after each capture. Simultaneously, for each image captured, values for the following attributes -	*hue1,	sat1,	val1,	hue2,	sat2,	val2,	hue3,	sat3,	val3,	ripenessIndex* are written to a CSV file.
@@ -26,5 +26,5 @@ This repository contains the code and dataset used for the paper given below. Pl
  
 * 	**KNN Results**: This Jupyter Notebook file contains metrics regarding the accuracy of K Nearest Neighbors algorithm when applied on the dataset generated.
 
-## Segmentation issues:
+## Segmentation Issues:
 Images, *m013* and *v026* were segmneted inaccurately. This is reflected in the *test.csv* file as anomalous values.
