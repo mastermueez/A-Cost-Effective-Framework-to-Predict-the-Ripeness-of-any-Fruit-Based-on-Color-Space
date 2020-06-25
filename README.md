@@ -1,11 +1,11 @@
 # A Cost Effective Framework to Predict the Ripeness of any Fruit Based on Color Spread
 
 ## Citation Information
-This repository contains the code and dataset used for the paper given below.
+This repository contains the code and dataset used for the paper given below. Please cite the paper if you use the code here as part of a published research project. 
 
 *A. Mueez, “A Cost-Effective Framework to Predict the Ripeness of any Fruit Based on Color Space”, 2020 IEEE Region 10 Symposium (TENSYMP), 5-7 June, Dhaka, Bangladesh. In press.*
 
-Please cite the paper if you use the code in this repository as part of a published research project. The presentation for this paper can be found [here](https://youtu.be/TQqIDKwov_Ms).
+The presentation for this paper can be found [here](https://youtu.be/TQqIDKwov_Ms).
 
 
 ## A Brief Outline of the Contents:
