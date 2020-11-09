@@ -1,4 +1,4 @@
-# A Cost Effective Framework to Predict the Ripeness of any Fruit Based on Color Spread
+# A Cost Effective Framework to Predict the Ripeness of any Fruit Based on Color Space
 
 ## Citation Information
 This repository contains the code and dataset used for the paper given below. Please cite the paper if you use the code here as part of a published research project. 
