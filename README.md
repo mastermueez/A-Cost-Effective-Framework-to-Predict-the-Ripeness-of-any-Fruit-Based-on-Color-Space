@@ -5,7 +5,7 @@ This repository contains the code and dataset used for this [paper](https://ieee
 
 @inproceedings{mueez2020cost,
   title={A Cost-Effective Framework to Predict the Ripeness of any Fruit Based on Color Space},
-  author={Mueez, Abdul},
+   author={Mueez, Abdul},
   booktitle={2020 IEEE Region 10 Symposium (TENSYMP)},
   pages={1729--1733},
   year={2020},
