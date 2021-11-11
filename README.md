@@ -1,7 +1,16 @@
 # A Cost-Effective Framework to Predict the Ripeness of any Fruit Based on Color Space
 
 ## Citation Information
-This repository contains the code and dataset used for this [paper](https://ieeexplore.ieee.org/abstract/document/9231002). Please cite the paper if you use the code here as part of a published research project. 
+This repository contains the code and dataset used for this [paper](https://ieeexplore.ieee.org/abstract/document/9231002). Please cite the paper if you use the code here as part of a published research project.
+
+@inproceedings{mueez2020cost,
+  title={A Cost-Effective Framework to Predict the Ripeness of any Fruit Based on Color Space},
+  author={Mueez, Abdul},
+  booktitle={2020 IEEE Region 10 Symposium (TENSYMP)},
+  pages={1729--1733},
+  year={2020},
+  organization={IEEE}
+}
 
 The presentation for this paper can be found [here](https://youtu.be/TQqIDKwov_Ms).
 
